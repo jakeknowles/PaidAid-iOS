@@ -12,7 +12,6 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("I can't wait to push this project to Github")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
